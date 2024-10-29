@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-mark-melvoy-qlckpbx54-markmelvoys-projects.vercel.app/fromDB
+https://deploy-this-repo-mark-melvoy.vercel.app/
 
 
